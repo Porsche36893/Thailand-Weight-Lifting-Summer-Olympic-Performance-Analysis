@@ -8,6 +8,19 @@ This project focuses on extracting and analyzing weightlifting data for four spe
 - **Men 73kg**
 
 The following steps outline the data collection and transformation process to prepare the dataset for analysis.
+![Weightlifting Men (61kg) Thailand's Performance](https://github.com/Porsche36893/Thailand-Weight-Lifting-Summer-Olympic-Performance-Analysis/blob/main/Weightlifting%20Men%20(61kg)%20Thailand's%20Performance%20compared%20to%20Historical%20Statistics%20from%202012-2024.png?raw=true)
+
+# Executive Summary: Weightlifting - Rising Threshold for Victory
+
+This scatterplot visualizes the performance of Thai  weightlifters in the +81kg category from 2012 to 2024, highlighting a clear trend: The weightlifting threshold required to win medals is rising.
+
+## Key Observations:
+
+- **Upward and Rightward Shift**: The data points representing medal-winning performances (gold for 2012, silver for 2016, and bronze for 2020) show a distinct upward and rightward shift over time. This indicates that athletes lift increasingly heavier weights in both the Snatch and Clean & Jerk components to achieve medal-winning positions.
+  
+- **2024 Performance**: Duangaksorn Chaidee's 2024 performance demonstrates improvement compared to previous years, but it falls short of the weights lifted by bronze medalists in 2020. This underscores the increasing level of competition and the need for continued progress to reach the podium.
+
+- **Threshold Lines**: The dashed lines representing key weight thresholds further emphasize this trend. To be competitive for medals in the future, Thai weightlifters in this category will likely need to surpass the 130kg mark in the Snatch and the 173kg mark in the Clean & Jerk.
 
 ## Data Collection Process
 
